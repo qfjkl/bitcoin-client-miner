@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1636579027 source:c:\users\gaelo\desktop\msn-client\msn-fast\miner.cpp
+	"Miner.h"
+	"sha256.h"
+	<winsock2.h>
+
+1636575309 c:\users\gaelo\desktop\msn-client\msn-fast\miner.h
+	<string>
+
+1636575555 source:c:\users\gaelo\desktop\msn-client\msn-fast\main.cpp
+	<iostream>
+	<cmath>
+	"Miner.h"
+	"uint256.h"
+	<string>
+	<sstream>
+	<iomanip>
+
+1636558944 c:\users\gaelo\desktop\msn-client\msn-fast\uint256.h
+	<assert.h>
+	<cstring>
+	<stdint.h>
+	<string>
+	<vector>
+
+1636578493 c:\users\gaelo\desktop\msn-client\msn-fast\sha256.h
+	<stdint.h>
+	<stdlib.h>
+	<string>
+
+1637342614 source:c:\users\gaelo\desktop\all desktop folder\msn-client\msn-fast\miner.cpp
+	<vector>
+	"Bitcoin/Sha256.hpp"
+	"Bitcoin/Sha256Hash.hpp"
+	"Bitcoin/Uint256.hpp"
+	"Miner.h"
+	<intrin.h>
+	<iostream>
+	<winsock2.h>
+	<WS2tcpip.h>
+	<ctime>
+	<iomanip>
+	<string>
+	<sstream>
+	<typeinfo>
+	<cmath>
+
+1637074647 c:\users\gaelo\desktop\all desktop folder\msn-client\msn-fast\miner.h
+	"Bitcoin/Sha256.hpp"
+	"Bitcoin/Sha256Hash.hpp"
+	<string>
+	<iostream>
+	<iomanip>
+	<sstream>
+	<vector>
+	"byte_type.h"
+
+1636578493 c:\users\gaelo\desktop\all desktop folder\msn-client\msn-fast\sha256.h
+	<stdint.h>
+	<stdlib.h>
+	<string>
+
+1632061909 c:\users\gaelo\desktop\all desktop folder\msn-client\msn-fast\bitcoin\sha256.hpp
+	<cstddef>
+	<cstdint>
+	"Sha256Hash.hpp"
+
+1632061909 c:\users\gaelo\desktop\all desktop folder\msn-client\msn-fast\bitcoin\sha256hash.hpp
+	<cstddef>
+	<cstdint>
+
+1637342771 source:c:\users\gaelo\desktop\all desktop folder\msn-client\msn-fast\main.cpp
+	"Miner.h"
+	<iostream>
+	<cmath>
+	<string>
+
+1636742700 c:\users\gaelo\desktop\all desktop folder\msn-client\msn-fast\tqdm\tqdm.h
+	<unistd.h>
+	<chrono>
+	<ctime>
+	<numeric>
+	<ios>
+	<string>
+	<cstdlib>
+	<iostream>
+	<vector>
+	<math.h>
+	<algorithm>
+
+1636905643 c:\users\gaelo\desktop\all desktop folder\msn-client\msn-fast\byte_type.h
+	<iostream>
+
+1636912428 source:c:\users\gaelo\desktop\all desktop folder\msn-client\msn-fast\icon.rc
+
+1632061909 c:\users\gaelo\desktop\all desktop folder\msn-client\msn-fast\bitcoin\uint256.hpp
+	<cstdint>
+	"FieldInt.hpp"
+
+1632061909 c:\users\gaelo\desktop\all desktop folder\msn-client\msn-fast\bitcoin\fieldint.hpp
+	<cstdint>
+	"Uint256.hpp"
+

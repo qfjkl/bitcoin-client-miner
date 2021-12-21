@@ -1,0 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory 'c:/Users/Gaelo/Desktop/All desktop Folder/msn-client/msn-fast/openssl-3.0.0'
+make: Leaving directory 'c:/Users/Gaelo/Desktop/All desktop Folder/msn-client/msn-fast/openssl-3.0.0'
+ 
+makefile:76: *** missing separator.  Stop.
+ 
